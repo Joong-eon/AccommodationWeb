@@ -12,7 +12,6 @@
 | HTML5<br>CSS3<br>JavaScript | Servlet & JSP | Oracle | Apache Tomcat | Git<br>Trello<br>Adobe XD<br>Photoshop |
 
 ## 📅 개발 기간
-(추가하기)
 ![프로젝트일정(틈)](https://user-images.githubusercontent.com/65852909/103269952-44366800-49fa-11eb-9bb9-7e3f6c3d4e8a.png)
 
 ## 📊 E-R Diagram
